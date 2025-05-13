@@ -38,3 +38,6 @@ Thumbs.db
 *.tar.gz
 *.tar
 *.tar.gz
+myenv/
+codeWord/
+codeWord/
