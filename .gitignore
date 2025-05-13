@@ -1,0 +1,40 @@
+# סביבת פיתוח
+.venv/
+__pycache__/
+*.pyc
+# קבצי מערכת
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# קבצי קונפיגורציה מקומיים
+*.log
+
+# קבצי הפלט
+*.exe
+*.out
+*.zip
+
+.venv/
+__pycache__/
+*.pyc
+# קבצי מערכת
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# קבצי קונפיגורציה מקומיים
+*.log
+
+# קבצי הפלט
+*.exe
+*.out
+*.zip
+*.tar
+*.tar.gz
+*.tar
+*.tar.gz

@@ -1,0 +1,5 @@
+train: C:\explosives-detection-training-main\explosives-detection-training-main\images\images  # כאן צריך לשים את הנתיב לתמונות האימון
+val: D:\יד\פרויקט גמר\קודים לחלקי הפרויקט\cargo  # כאן צריך לשים את הנתיב לתמונות הבדיקה
+
+nc: 2  # מספר הקטגוריות (לדוגמה, חומרי נפץ ולא חומרי נפץ)
+names: ["explosive", "non_explosive"]  # שמות הקטגוריות
